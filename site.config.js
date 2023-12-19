@@ -2,8 +2,8 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Reuben Thomas",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Hardware + ML + Neurotechnology",
+    image: "/reuben-notion-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    role: "Hardware+ML+Neurotech",
     bio: "Exploring the intersections between technology and everything else, sharing my thoughts on anything regardless if people want them or not.",
     email: "reubenkthomas@berkeley.edu",
     linkedin: "reuben-k-thomas",
